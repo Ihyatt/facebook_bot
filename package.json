@@ -1,0 +1,21 @@
+{
+	"author": "Inas <inas.raheema@gmail.com>",
+	"dependencies": {
+		"request": "^2.79.0"
+	},
+	"description": "A bad bot",
+	"keywords": [
+		"Recime",
+		"Bot"
+	],
+	"license": "555",
+	"main": "main.js",
+	"name": "joey",
+	"private": true,
+	"scripts": {
+		"build": "tsc",
+		"preinstall": "npm install -g typescript"
+	},
+	"title": "Joey",
+	"version": "1.0.1"
+}
